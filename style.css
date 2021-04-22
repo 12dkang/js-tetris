@@ -22,8 +22,8 @@ h3 {
 }
 
 .grid {
-  width: 200px;
-  height: 400px;
+  width: 150px;
+  height: 300px;
   display: flex;
   flex-wrap: wrap;
   background-image: url(./img/aurora.jfif);
@@ -34,19 +34,14 @@ h3 {
 }
 
 .grid div {
-  height: 20px;
-  width: 20px;
-  border: 1px;
+  height: 15px;
+  width: 15px;
 }
-
-/* .tetromino {
-  content: url(./img/red-btn.png);
-} */
 
 .mini-grid {
   margin-left: 50px;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   display: flex;
   flex-wrap: wrap;
   background-image: url(./img/aurora.jfif);
@@ -57,6 +52,6 @@ h3 {
 }
 
 .mini-grid div {
-  height: 20px;
-  width: 20px;
+  height: 15px;
+  width: 15px;
 }
